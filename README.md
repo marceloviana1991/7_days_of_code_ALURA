@@ -1,9 +1,10 @@
 <h1>7 Days of Code de Data Science</h1>
 
 <p>Esse repositório é composto pelos projetos de data science desenvolvidos durante um evento da Alura denominado "7 Days of Code".</p>
-<p>Os projetos desenvolvidos para esse repositório foram criados em uma participação em janeiro de 2023 e foi composto pelas seguinte etapas:</p>
+<p>Os projetos desenvolvidos para esse repositório foram criados em uma participação em janeiro de 2023.</p>
 
 <ul>
+  <p>Etapas do projeto:</p>
   <li>1- Primeiro dia (Tratamento)</li>
   <li>2- Segundo dia (Análise e exploração)</li>
   <li>3- Terceiro dia (Previsão em série temporal)</li>
