@@ -17,10 +17,8 @@
               <li>7- Sétimo dia (Criação do repositório)</li>
             </ul>
         </div>
-        <div class="col-6">
-            
+        <div class="col-6"> 
             <img src="https://7daysofcode.io/assets/img/background-7days.1662756777.svg">
-          
         </div>
     </div>
 </div>
