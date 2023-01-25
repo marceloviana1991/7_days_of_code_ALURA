@@ -10,7 +10,7 @@
   <li>4- Quarto dia (Machine learning</li>
   <li>5- Quinto dia (API)</li>
   <li>6- Sexto dia (Teste de hipótese A/B)</li>
-  <li>7- Sétimo dia (Criaç</li>
+  <li>7- Sétimo dia (Criação do repositório)</li>
 </ul>
 
 ![](https://images-ext-1.discordapp.net/external/6v-PoFp-F-8zyEwt-WCYTNS2JP3gJi8HC6uXB650kUg/https/7daysofcode.io/assets/img/share-img-doc.1647533642.png#vitrinedev)
