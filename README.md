@@ -1,10 +1,10 @@
-<h1>7 Days of Code de Data Science <img src="https://7daysofcode.io/assets/img/background-7days.1662756777.svg#vitrinedev"> </h1> 
+<h1>7 Days of Code de Data Science </h1> 
 
 
 <p>Esse repositório é composto por 5 notebooks jupyter e uma aplicação python referentes aos projetos de data science desenvolvidos durante um evento da Alura denominado "7 Days of Code".</p>
 
 <ul>
-  <p>Etapas do projeto:</p>
+  <p>Etapas do projeto:</p> <img src="https://7daysofcode.io/assets/img/background-7days.1662756777.svg#vitrinedev">
   <li>1- Primeiro dia (Tratamento)</li>
   <li>2- Segundo dia (Análise e exploração)</li>
   <li>3- Terceiro dia (Previsão em série temporal)</li>
