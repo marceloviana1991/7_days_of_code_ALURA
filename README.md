@@ -19,6 +19,8 @@
         </div>
         <div class="col-6">
             
+            ![](https://7daysofcode.io/assets/img/background-7days.1662756777.svg#vitrinedev)
+            
         </div>
     </div>
 </div>
@@ -31,7 +33,7 @@
 | :fire: Desafio     | [https://url-do-desafio.com.br](https://7daysofcode.io/matricula/data-science)
 
 
-![](https://7daysofcode.io/assets/img/background-7days.1662756777.svg#vitrinedev)
+
 
 <p>Os projetos desenvolvidos para esse repositório foram criados em uma participação em janeiro de 2023.</p>
 
