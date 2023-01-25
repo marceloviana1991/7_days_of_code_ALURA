@@ -18,7 +18,7 @@
             </ul>
         </div>
         <div class="col-6"> 
-            <img src="https://7daysofcode.io/assets/img/background-7days.1662756777.svg">
+            <img src="https://7daysofcode.io/assets/img/background-7days.1662756777.svg#vitrinedev">
         </div>
     </div>
 </div>
