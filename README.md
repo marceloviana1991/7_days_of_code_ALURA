@@ -19,8 +19,10 @@
   <li>7- Sétimo dia (Criação do repositório)</li>
 </ul>
 
+<div aling="center">
 <img src="https://7daysofcode.io/assets/img/background-7days.1662756777.svg#vitrinedev">
-
+</div>
+  
 <p>Os projetos desenvolvidos para esse repositório foram criados em uma participação em janeiro de 2023.</p>
 
 
