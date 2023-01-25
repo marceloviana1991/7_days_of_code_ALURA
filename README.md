@@ -5,12 +5,12 @@
 <p>Os projetos desenvolvidos para esse repositório foram criados em uma participação em janeiro de 2023 e foi composto pelas seguinte etapas:</p>
 
 <ul>
-  <li><b>1- Primeiro dia</b></li>
-  <li>2- Segundo dia</li>
-  <li>3- Terceiro dia</li>
-  <li>4- Quarto dia</li>
-  <li>5- Quinto dia</li>
-  <li>6- Sexto dia</li>
+  <li>1- Primeiro dia (Tratamento)</li>
+  <li>2- Segundo dia (Análise e exploração)</li>
+  <li>3- Terceiro dia (Previsão em série temporal)</li>
+  <li>4- Quarto dia (Machine learning</li>
+  <li>5- Quinto dia (API)</li>
+  <li>6- Sexto dia (Teste de hipótese A/B)</li>
   <li>7- Sétimo dia</li>
 </ul>
 
