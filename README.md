@@ -21,3 +21,4 @@
 ![](https://images-ext-1.discordapp.net/external/6v-PoFp-F-8zyEwt-WCYTNS2JP3gJi8HC6uXB650kUg/https/7daysofcode.io/assets/img/share-img-doc.1647533642.png#vitrinedev)
 
 <p>Os projetos desenvolvidos para esse repositório foram criados em uma participação em janeiro de 2023.</p>
+
