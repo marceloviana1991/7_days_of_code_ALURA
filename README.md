@@ -20,7 +20,7 @@
 </ul>
 
 <div aling="center">
-<img src="https://7daysofcode.io/assets/img/background-7days.1662756777.svg#vitrinedev" width="200px">
+<img src="https://7daysofcode.io/assets/img/background-7days.1662756777.svg#vitrinedev" width="500px">
 </div>
   
 <p>Os projetos desenvolvidos para esse repositório foram criados em uma participação em janeiro de 2023.</p>
