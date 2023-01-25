@@ -1,6 +1,5 @@
 <h1>7 Days of Code de Data Science </h1> 
-<h3>Marcelo Viana de Souza</h3>
-<h3>Aracaju-SE</h3>
+<h3>Marcelo Viana de Souza Aracaju-SE</h3>
 
 <p>Esse repositório é composto por 5 notebooks jupyter e uma aplicação python referentes aos projetos de data science desenvolvidos durante um evento da Alura denominado "7 Days of Code".</p>
 
