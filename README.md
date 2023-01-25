@@ -22,7 +22,7 @@
 <p>Os projetos desenvolvidos para esse repositório foram criados em uma participação em janeiro de 2023.</p>
 
 <div aling="center">
-<img src="https://user-images.githubusercontent.com/118846775/214648247-3ba5e515-28aa-4971-9bac-b85a390b69ff.svg">
+<img src="https://user-images.githubusercontent.com/118846775/214648247-3ba5e515-28aa-4971-9bac-b85a390b69ff.svg" width="800px">
 </div>
   
 
