@@ -3,6 +3,13 @@
 
 <p>Esse repositório é composto por 5 notebooks jupyter e uma aplicação python referentes aos projetos de data science desenvolvidos durante um evento da Alura denominado "7 Days of Code".</p>
 
+
+| :placard: Vitrine.Dev |https://cursos.alura.com.br/vitrinedev/marceloviana1991|
+| -------------  | --- |
+| :sparkles: Nome        | **Marcelo Viana de Souza**
+| :label: Linkedin | https://www.linkedin.com/in/marcelo-viana-de-souza/
+| :fire: Desafio     | [https://url-do-desafio.com.br](https://7daysofcode.io/matricula/data-science)
+
 <ul>
   <p>Etapas do projeto:</p>
   <li>1- Primeiro dia (Tratamento)</li>
@@ -16,11 +23,6 @@
 
  <img src="https://7daysofcode.io/assets/img/background-7days.1662756777.svg#vitrinedev">
 
-| :placard: Vitrine.Dev |https://cursos.alura.com.br/vitrinedev/marceloviana1991|
-| -------------  | --- |
-| :sparkles: Nome        | **Marcelo Viana de Souza**
-| :label: Linkedin | https://www.linkedin.com/in/marcelo-viana-de-souza/
-| :fire: Desafio     | [https://url-do-desafio.com.br](https://7daysofcode.io/matricula/data-science)
 
 
 <p>Os projetos desenvolvidos para esse repositório foram criados em uma participação em janeiro de 2023.</p>
