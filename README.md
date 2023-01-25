@@ -13,6 +13,11 @@
   <li>7- Sétimo dia (Criação do repositório)</li>
 </ul>
 
+
+| :placard: Vitrine.Dev |https://cursos.alura.com.br/vitrinedev/marceloviana1991|
+| -------------  | --- |
+| :fire: Desafio     | [https://url-do-desafio.com.br](https://www.alura.com.br/challenges/data-science-2/semana-01-transformacao-dados-pyspark)
+
 ![](https://images-ext-1.discordapp.net/external/6v-PoFp-F-8zyEwt-WCYTNS2JP3gJi8HC6uXB650kUg/https/7daysofcode.io/assets/img/share-img-doc.1647533642.png#vitrinedev)
 
 <p>Os projetos desenvolvidos para esse repositório foram criados em uma participação em janeiro de 2023.</p>
