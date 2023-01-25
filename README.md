@@ -8,13 +8,13 @@
   <li>1- Primeiro dia (Tratamento)</li>
   <li>2- Segundo dia (Análise e exploração)</li>
   <li>3- Terceiro dia (Previsão em série temporal)</li>
-  <li>4- Quarto dia (Machine learning)  <img src="https://7daysofcode.io/assets/img/background-7days.1662756777.svg#vitrinedev"> </li>
+  <li>4- Quarto dia (Machine learning) </li>
   <li>5- Quinto dia (API)</li>
   <li>6- Sexto dia (Teste de hipótese A/B)</li>
   <li>7- Sétimo dia (Criação do repositório)</li>
 </ul>
 
-
+ <img src="https://7daysofcode.io/assets/img/background-7days.1662756777.svg#vitrinedev">
 
 | :placard: Vitrine.Dev |https://cursos.alura.com.br/vitrinedev/marceloviana1991|
 | -------------  | --- |
