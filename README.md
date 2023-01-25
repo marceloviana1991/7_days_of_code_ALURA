@@ -1,7 +1,6 @@
 <h1>7 Days of Code de Data Science</h1>
 
 <p>Esse repositório é composto pelos projetos de data science desenvolvidos durante um evento da Alura denominado "7 Days of Code".</p>
-<p>Os projetos desenvolvidos para esse repositório foram criados em uma participação em janeiro de 2023.</p>
 
 <ul>
   <p>Etapas do projeto:</p>
@@ -15,3 +14,5 @@
 </ul>
 
 ![](https://images-ext-1.discordapp.net/external/6v-PoFp-F-8zyEwt-WCYTNS2JP3gJi8HC6uXB650kUg/https/7daysofcode.io/assets/img/share-img-doc.1647533642.png#vitrinedev)
+
+<p>Os projetos desenvolvidos para esse repositório foram criados em uma participação em janeiro de 2023.</p>
