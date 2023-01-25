@@ -16,7 +16,7 @@
 
 | :placard: Vitrine.Dev |https://cursos.alura.com.br/vitrinedev/marceloviana1991|
 | -------------  | --- |
-| :fire: Desafio     | [https://url-do-desafio.com.br](https://www.alura.com.br/challenges/data-science-2/semana-01-transformacao-dados-pyspark)
+| :fire: Desafio     | [https://url-do-desafio.com.br](https://7daysofcode.io/matricula/data-science)
 
 ![](https://images-ext-1.discordapp.net/external/6v-PoFp-F-8zyEwt-WCYTNS2JP3gJi8HC6uXB650kUg/https/7daysofcode.io/assets/img/share-img-doc.1647533642.png#vitrinedev)
 
