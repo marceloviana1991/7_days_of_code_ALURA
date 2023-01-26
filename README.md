@@ -6,6 +6,7 @@
 | :placard: Vitrine.Dev |https://cursos.alura.com.br/vitrinedev/marceloviana1991|
 | -------------  | --- |
 | :sparkles: Nome        | **7 Days of Code de Data Science**
+| :label: Tecnologias | pandas (tecnologias utilizadas)
 | :label: Linkedin | https://www.linkedin.com/in/marcelo-viana-de-souza/
 | :fire: Desafio     | [https://url-do-desafio.com.br](https://7daysofcode.io/matricula/data-science)
 
