@@ -13,7 +13,7 @@ def inicio():
 
 @app.route('/lista')
 def lista():
-    return pd.read_csv('movies.csv').to_html()
+    return pd.read_csv('dados/movies.csv').to_html()
 
 
 @app.route('/recomendacao', methods=['POST',])

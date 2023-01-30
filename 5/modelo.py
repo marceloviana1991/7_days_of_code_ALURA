@@ -6,12 +6,12 @@ from sklearn.preprocessing import StandardScaler
 
 
 
-dados = pd.read_csv('movies.csv')[['movieId', 'genres']]
+dados = pd.read_csv('dados/movies.csv')[['movieId', 'genres']]
 dados = dados.set_index('movieId')
 dados_dummies = dados['genres'].str.get_dummies()
 dados_dummies = dados_dummies.drop(columns='(no genres listed)')
 
-dados_tags = pd.read_csv('tags.csv')
+dados_tags = pd.read_csv('dados/tags.csv')
 dados_tags = dados_tags.drop(columns=['userId','timestamp'])
 dados_tags = pd.DataFrame({'movieId':dados_tags['movieId'].unique(),
                       'tags':[dados_tags['tag'][dados_tags['movieId']==i].str.cat(sep="|")\
@@ -22,7 +22,7 @@ dados_tags_dummies = dados_tags['tags'].str.get_dummies()
 dados_tags_dummies = dados_tags_dummies.rename(columns={n:'tag_'+n for n in dados_tags_dummies.columns})
 dados_dummies.join(dados_tags_dummies)
 
-dados_ratings = pd.read_csv('ratings.csv')
+dados_ratings = pd.read_csv('dados/ratings.csv')
 dados_ratings = dados_ratings.drop(columns=['userId','timestamp'])
 dados_ratings = dados_ratings.groupby("movieId").mean()
 scaler = StandardScaler()
@@ -40,7 +40,7 @@ projection = pd.DataFrame(columns=['x', 'y', 'z'], data=embedding_pca)
 modelo_kmeans_pca = KMeans(n_clusters=20)
 modelo_kmeans_pca.fit(projection)
 projection['cluster_pca'] = modelo_kmeans_pca.predict(projection)
-projection = projection.join(pd.read_csv('movies.csv'))
+projection = projection.join(pd.read_csv('dados/movies.csv'))
 projection = projection.set_index('movieId')
 
 
