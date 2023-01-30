@@ -6,21 +6,11 @@
     <title>Recomendador</title>
 </head>
 <body>
-    <div class="container">
-      <form action="/recomendacao" method="post">
-        <fieldset>
-          <div class="form-group">
-            <label for="nome">Nome do filme</label>
-            <input type="text" id="nome" name="nome" class="form-control">
-          </div>
-          <button type="submit" class="btn btn-primary btn-salvar">Recomendar</button>
-        </fieldset>
-      </form>
-      <form action="/lista">
-        <fieldset>
-          <button type="submit" class="btn btn-primary btn-salvar">Consultar Lista</button>
-        </fieldset>
-      </form>
-    </div>
+    <form action="/recomendacao" method="post">
+        <label for="nome">Nome do filme</label>
+        <input type="text" id="nome" name="nome" class="form-control">
+        <button type="submit">Recomendar</button>
+    </form>
+    <a href="/lista"><button>Consultar Lista</button></a>
 </body>
 </html>
